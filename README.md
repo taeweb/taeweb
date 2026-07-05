@@ -52,7 +52,7 @@ Welcome to my digital workspace. I am a passionate developer specializing in Sof
 </p>
 <p align="left">
   <!-- ลิงก์แบบเติมพารามิเตอร์ท็อปภาษาเวอร์ชันสมบูรณ์ 100% สำหรับคุณครับ -->
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?top-langs/" alt="Top Languages" />
+  <img src="https://vercel.app/api/top-langs/?username=taeweb&layout=compact" alt="Top Languages" />
 </p>
 
 
