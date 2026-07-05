@@ -44,6 +44,13 @@ Welcome to my digital workspace. I am a passionate developer specializing in Sof
 
 </p>
 
+* 🎓 **AI** –Generative AI และการใช้งาน ChatGPT เพื่อใช้ในการศึกษาค้นคว้า **มหวิทยาลัยเกษตรศาสตร์** program (Oct 2025).
+
+<p align="left">
+<img width="2481" height="1754" alt="Certificate-kumooc046-TH_page-0001" src="https://github.com/user-attachments/assets/3eb895c2-f10c-4820-89be-ce6ffebbe20a" />
+
+</p>
+
 ---
 
 ### 📊 GitHub Statistics
