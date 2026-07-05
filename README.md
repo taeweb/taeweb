@@ -50,6 +50,10 @@ Welcome to my digital workspace. I am a passionate developer specializing in Sof
 <p align="left">
  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=taeweb&show_icons=true&count_private=true&theme=tokyonight" alt="Thammathep's GitHub Stats" />
 </p>
+<p align="left">
+  <!-- ลิงก์แบบเติมพารามิเตอร์ท็อปภาษาเวอร์ชันสมบูรณ์ 100% สำหรับคุณครับ -->
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?top-langs/" alt="Top Languages" />
+</p>
 
 
 
