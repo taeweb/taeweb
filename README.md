@@ -1,4 +1,4 @@
-# Hi there, I'm Thammathep Klinkai! 👋
+# Hi there, I'm Thammathep! 👋
 ### Founder of PeeInw COMPANY
 
 Welcome to my digital workspace. I am a passionate developer specializing in Software Development, Artificial Intelligence, Programming, and Cybersecurity. I love building secure, high-performance systems and bringing intelligent software ideas to life.
@@ -41,6 +41,11 @@ Welcome to my digital workspace. I am a passionate developer specializing in Sof
 ### 📜 Certifications & Achievements
 * 🎓 **C++ Essentials 1** – Issued by Login Learning through the **Cisco Networking Academy** program (Sept 2025).
 
+<p align="left">
+  <img src="ใส่ลิงก์รูปภาพของคุณที่นี่" width="550" alt="C++ Essentials 1 Certificate" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"/>
+</p>
+
+
 ---
 
 ### 📊 GitHub Statistics
@@ -53,5 +58,5 @@ Welcome to my digital workspace. I am a passionate developer specializing in Sof
 ---
 
 ### 🤝 Connect with Me
-* 💼 **Portfolio / Website:** Powered by [PeeInw COMPANY]
+* 💼 **Website:** Powered by [PeeInw COMPANY]
 * 🛠️ Feel free to explore my repositories or reach out for collaborations on secure software and AI developments!
