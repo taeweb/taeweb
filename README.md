@@ -55,7 +55,7 @@ Welcome to my digital workspace. I am a passionate developer specializing in Sof
   <img src="https://github-readme-stats-ymls.vercel.app/api/top-langs/?username=taeweb&layout=compact&theme=tokyonight&count_private=true" alt="Top Languages" />
 </p>
 
-* 🟦 **typescript** VIBE CODING
+* 🟦 **typescript** VIBE CODING *
 
 
 ---
