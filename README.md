@@ -18,20 +18,18 @@ Welcome to my digital workspace. I am a passionate developer specializing in Sof
 ![Python](https://shields.io)
 ![JavaScript](https://shields.io)
 
-
-**Strack Web App Technologies**
+**Web & App Technologies (Stack)**
 ![HTML5](https://shields.io)
 ![CSS3](https://shields.io)
 ![NodeJS](https://shields.io)
 ![Google Apps Script](https://shields.io)
 
-**Strack Web App Technologies**
-![Google Sheet](https://shields.io)
+**Databases & Data Tools**
+![Google Sheets](https://shields.io)
 ![MySQL](https://shields.io)
 
 **Cybersecurity & Tools**
 ![Kali Linux](https://shields.io)
-
 
 **Deployment & Cloud**
 ![Render](https://shields.io)
@@ -42,9 +40,10 @@ Welcome to my digital workspace. I am a passionate developer specializing in Sof
 * 🎓 **C++ Essentials 1** – Issued by Login Learning through the **Cisco Networking Academy** program (Sept 2025).
 
 <p align="left">
-  <img src="ใส่ลิงก์รูปภาพของคุณที่นี่" width="550" alt="C++ Essentials 1 Certificate" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"/>
-</p>
+  <!-- ลากไฟล์รูปภาพใบเซอร์ของคุณจากคอมพิวเตอร์มาปล่อยแทนที่บรรทัดด้านล่างนี้ได้เลยครับ -->
+ <img width="1024" height="694" alt="1783257285453-2ea4c1ff-6bbe-400c-88d0-0d118617884b_1" src="https://github.com/user-attachments/assets/17744c8e-fef1-40e1-804c-ec8e80c062c6" />
 
+</p>
 
 ---
 
@@ -60,3 +59,4 @@ Welcome to my digital workspace. I am a passionate developer specializing in Sof
 ### 🤝 Connect with Me
 * 💼 **Website:** Powered by [PeeInw COMPANY]
 * 🛠️ Feel free to explore my repositories or reach out for collaborations on secure software and AI developments!
+
