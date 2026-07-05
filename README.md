@@ -51,7 +51,7 @@ Welcome to my digital workspace. I am a passionate developer specializing in Sof
  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=taeweb&show_icons=true&count_private=true&theme=tokyonight" alt="Thammathep's GitHub Stats" />
 </p>
 <p align="left">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=taeweb&layout=compact&theme=tokyonight&langs_count=8&hide_border=true" alt="Top Languages" />
+  <img src="https://<github-readme-stats-ymls.vercel.app>/api?username=taeweb&show_icons=true&count_private=true&theme=tokyonight" alt="Top Languages" />
 </p>
 
 
