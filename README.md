@@ -48,9 +48,10 @@ Welcome to my digital workspace. I am a passionate developer specializing in Sof
 ### 📊 GitHub Statistics
 
 <p align="left">
-  <!-- ใส่สูตร &count_private=true เพื่อให้ระบบเข้าไปเอาตัวเลขนับจำนวนจากโปรเจกต์ส่วนตัวที่คุณเปิดแชร์มาประมวลผลเป็นรูปภาพครับ -->
+  <!-- สังเกตตรงหลังคำว่า show_icons=true จะมีพารามิเตอร์ &count_private=true เพิ่มเข้ามาครับ -->
   <img src="https://vercel.app" alt="Thammathep's GitHub Stats" />
 </p>
+
 
 ---
 
