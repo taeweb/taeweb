@@ -48,7 +48,7 @@ Welcome to my digital workspace. I am a passionate developer specializing in Sof
 ### 📊 GitHub Statistics
 
 <p align="left">
- <img src="https://vercel.app&v=2026" alt="Thammathep's GitHub Stats" />
+ <img src="/api?username=taeweb&show_icons=true&count_private=true&theme=tokyonight" alt="Thammathep's GitHub Stats" />
 </p>
 
 
