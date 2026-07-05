@@ -47,10 +47,10 @@ Welcome to my digital workspace. I am a passionate developer specializing in Sof
 
 ### 📊 GitHub Statistics
 
+
+
 <p align="left">
-  <!-- เปลี่ยนมาใช้เซิร์ฟเวอร์สำรองที่ทำงานได้เสถียร 100% ทดแทน Vercel ตัวเดิมที่มีปัญหาครับ -->
-  <img src="https://vercel.app" alt="Thammathep's GitHub Stats" />
-  <img src="https://vercel.app" alt="Top Languages" />
+  <img src="https://vercel.app" alt="Thammathep's GitHub Activity Graph" />
 </p>
 
 ---
