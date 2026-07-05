@@ -48,9 +48,9 @@ Welcome to my digital workspace. I am a passionate developer specializing in Sof
 ### 📊 GitHub Statistics
 
 <p align="left">
-  <!-- สังเกตตรงหลังคำว่า show_icons=true จะมีพารามิเตอร์ &count_private=true เพิ่มเข้ามาครับ -->
   <img src="https://vercel.app" alt="Thammathep's GitHub Stats" />
 </p>
+
 
 
 ---
