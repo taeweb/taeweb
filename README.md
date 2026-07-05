@@ -51,8 +51,8 @@ Welcome to my digital workspace. I am a passionate developer specializing in Sof
  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=taeweb&show_icons=true&count_private=true&theme=tokyonight" alt="Thammathep's GitHub Stats" />
 </p>
 <p align="left">
-  <!-- ลิงก์แบบเติมพารามิเตอร์ท็อปภาษาเวอร์ชันสมบูรณ์ 100% สำหรับคุณครับ -->
-  <img src="https://vercel.app/api/top-langs/?username=taeweb&layout=compact" alt="Top Languages" />
+  <!-- ลิงก์ภาษาคอมพิวเตอร์หลัก (Top Languages) เวอร์ชันใส่พารามิเตอร์เคลียร์ระบบประมวลผลครบถ้วนครับ -->
+  <img src="https://vercel.app" width="500" height="200" alt="Top Languages - PeeInw COMPANY Portfolio Stats" />
 </p>
 
 
