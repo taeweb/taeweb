@@ -15,7 +15,7 @@ Welcome to my digital workspace. I am a passionate developer specializing in Sof
 
 **Programming & Software Development**
 * 🔵 **C++**
-* 🐍 **Python**
+* 🐍 **Python** (AI,Flask API)
 * 🟨 **JavaScript**
 
 
