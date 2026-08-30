@@ -6,7 +6,7 @@ Welcome to my digital workspace. I am a passionate developer specializing in Sof
 ---
 
 ### 💻 About PeeInw Technology
-**PeeInw COMPANY** is my personal development studio and portfolio showcase. It represents my commitment to clean code, robust software architecture, and proactive security practices. 
+**PeeInw Technology** is my personal development studio and portfolio showcase. It represents my commitment to clean code, robust software architecture, and proactive security practices. 
 * 🚀 **Our Mission:** Code. Secure. Innovate.
 
 ---
