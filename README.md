@@ -1,11 +1,11 @@
 # Hi there, I'm Thammathep! 👋
-### Founder of PeeInw COMPANY
+### Founder of PeeInw Technology
 
 Welcome to my digital workspace. I am a passionate developer specializing in Software Development, Artificial Intelligence, Programming, and Cybersecurity. I love building secure, high-performance systems and bringing intelligent software ideas to life.
 
 ---
 
-### 💻 About PeeInw COMPANY
+### 💻 About PeeInw Technology
 **PeeInw COMPANY** is my personal development studio and portfolio showcase. It represents my commitment to clean code, robust software architecture, and proactive security practices. 
 * 🚀 **Our Mission:** Code. Secure. Innovate.
 
@@ -67,5 +67,5 @@ Welcome to my digital workspace. I am a passionate developer specializing in Sof
 ---
 
 ### 🤝 Connect with Me
-* 💼 **Website:** Powered by [PeeInw COMPANY]
+* 💼 **Website:** Powered by [PeeInw Technology]
 * 🛠️ Feel free to explore my repositories or reach out for collaborations on secure software and AI developments!
