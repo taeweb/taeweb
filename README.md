@@ -26,6 +26,7 @@ Welcome to my digital workspace. I am a passionate developer specializing in Sof
 **Databases & Data Tools**
 * 📊 **Google Sheets**
 * 🐬 **MySQL**
+* 📊 **no sql**
 
 **Cybersecurity & Tools**
 * 🐉 **Kali Linux**
